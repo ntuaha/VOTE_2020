@@ -3,6 +3,9 @@
 
 確認資料驗證狀況 https://docs.google.com/spreadsheets/d/1NCyfHUvsYUatmse_q5SBm7P63INQlJca8cbPjluvvhM/edit?usp=sharing
 
+結果中選會已經公佈拉，浪費時間而已 QQ
+- 總統 https://db.cec.gov.tw/histMain.jsp?voteSel=20200101A1
+- 立委 https://db.cec.gov.tw/histMain.jsp?voteSel=20200101A2
 
 ### 資料
 
